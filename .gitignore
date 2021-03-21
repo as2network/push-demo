@@ -1,0 +1,13 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Next.js
+.next
+
+# JS
+node_modules
+
+.env.local
+.vercel
